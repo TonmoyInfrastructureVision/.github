@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/TonmoyInfrastructureVision/.github?style=for-the-badge)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/TonmoyInfrastructureVision/.github?style=for-the-badge)](https://github.com/TonmoyInfrastructureVision)
 [![Open Issues](https://img.shields.io/github/issues/TonmoyInfrastructureVision/.github?style=for-the-badge)](https://github.com/TonmoyInfrastructureVision/.github/issues)
-[![GitHub Org](https://img.shields.io/badge/GitHub-Tonmoy--Infra--Vision-blueviolet?style=for-the-badge&logo=github)](https://github.com/TonmoyInfrastructureVision)
+[![GitHub Org](https://img.shields.io/badge/GitHub-Tonmoy--Infrastructure--Vision-blueviolet?style=for-the-badge&logo=github)](https://github.com/TonmoyInfrastructureVision)
 
 <h3>
   ⚙️ <b>Engineering Scalable Infrastructure</b> | 
