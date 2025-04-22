@@ -19,6 +19,8 @@
 
 **Tonmoy Infrastructure & Vision** is a forward-focused organization dedicated to building next-gen digital ecosystems and intelligent, secure infrastructure. We blend cutting-edge technologies with practical implementation to create tools that empower developers, enterprises, and cybersecurity professionals.
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center"><h3>🖥️</h3>Cloud-Native<br>Infrastructure & DevOps</td>
@@ -31,6 +33,8 @@
     <td align="center"><h3>📡</h3>Modular Command &<br>Control Frameworks</td>
   </tr>
 </table>
+
+</div>
 
 We fuse **engineering discipline** with **visionary architecture** to deliver impactful solutions for modern technology challenges.
 
